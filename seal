@@ -2,7 +2,7 @@ local function acc()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/tobi437a/Scripts/refs/heads/main/165cd4375b9f28e0759e0a5a.lua'))()
 end
 local function setting()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/trbrock/toofasthub/refs/heads/main/loader"))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/trbrock/toofasthub/refs/heads/main/loader'))()
 end
 
 task.spawn(acc)
